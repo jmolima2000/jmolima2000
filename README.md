@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou o Josias Miranda!
 
 💻 Desenvolvedor em formação com foco em **Desenvolvimento Web e Análise de Dados**  
-📊 Buscando me tornar um profissional **júnior competitivo no mercado**  
 🚀 Apaixonado por tecnologia, aprendizado contínuo e projetos com impacto real  
 
 ---
@@ -15,35 +14,6 @@
 
 ---
 
-## ⚙️ Tecnologias e Ferramentas
-
-### 💻 Front-end
-- HTML, CSS, JavaScript  
-- Angular (em evolução)  
-- React (em evolução)
-- React Native
-- Wordpress
-- Elementor
-
-### 🧠 Back-end
-- Python (FastAPI, Django, Flask)  
-- Node.js (básico)
-- Java
-- C++
-
-### 📊 Dados
-- Pandas, NumPy  
-- Matplotlib, Seaborn  
-- SQL (intermediário)  
-- Excel e Power BI  
-
-### 🛠️ Outros
-- Git & GitHub  
-- APIs REST  
-- Supabase / Firebase  
-
----
-## ⚙️ Tecnologias e Ferramentas
 
 ## ⚙️ Tecnologias e Ferramentas
 
@@ -129,8 +99,7 @@
 
 ## 📈 Objetivo
 
-Meu objetivo é conquistar uma oportunidade como **Desenvolvedor Júnior ou Analista de Dados**,  
-onde eu possa aplicar meus conhecimentos e evoluir constantemente.
+Meu objetivo é aplicar meus conhecimentos e evoluir constantemente.
 
 ---
 
