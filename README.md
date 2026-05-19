@@ -28,6 +28,8 @@
 ### 🧠 Back-end
 - Python (FastAPI, Django, Flask)  
 - Node.js (básico)
+- Java
+- C++
 
 ### 📊 Dados
 - Pandas, NumPy  
