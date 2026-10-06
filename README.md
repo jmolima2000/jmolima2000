@@ -106,7 +106,7 @@ Meu objetivo é aplicar meus conhecimentos e evoluir constantemente.
 ## 📫 Contato
 
 📧 Email: jmolima2000@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/josias-miranda-lima/  
+
 
 ---
 
